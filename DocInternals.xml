@@ -12,6 +12,9 @@
     <String>7</String>
     <String>1</String>
     <String>INLFED</String>
+    <String>8</String>
+    <String>1</String>
+    <String>INLFED</String>
   </FieldSrcTables>
   <TableViewData></TableViewData>
   <Bookmarks></Bookmarks>
@@ -54,6 +57,7 @@
           <String>$Field</String>
           <String>$Table</String>
           <String>$Info</String>
+          <String>Name</String>
         </FieldNames>
       </FieldTagData>
       <FieldTagData>
@@ -62,6 +66,7 @@
           <String>$Field</String>
           <String>$Table</String>
           <String>$Info</String>
+          <String>Name</String>
         </FieldNames>
       </FieldTagData>
       <FieldTagData>

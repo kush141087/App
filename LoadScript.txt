@@ -22,3 +22,10 @@ ID, Sales
 11,100
 12,200
 13,250 ];
+
+Left Join
+LOAD * Inline [
+ID,Name
+11,A
+12,B
+13,c ];
